@@ -4,7 +4,7 @@
 /*
 contributors: Martijn Steinrucken
 description: Wavelet noise https://www.shadertoy.com/view/wsBfzK
-use: <vec2> worley(<vec2|vec3> pos)
+use: <float> wavelet(<vec2|vec3> pos)
 examples:
     - /shaders/generative_worley.frag
 license:
